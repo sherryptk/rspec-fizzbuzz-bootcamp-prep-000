@@ -8,6 +8,7 @@ def fizzbuzz(number)
    "FizzBuzz"
  else
    false
+ end
 end
 
 # def fizzbuzz
